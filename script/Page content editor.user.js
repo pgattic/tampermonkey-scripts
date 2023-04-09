@@ -10,13 +10,13 @@
 // ==/UserScript==
 
 (function() {
-    'use strict';
-    var editing = false;
-    document.addEventListener("keydown", (e) => {
-        if (e.key.toLowerCase() == "e" && e.ctrlKey && e.shiftKey) {
-            editing = !editing;
-            document.body.contentEditable = editing ? "true" : "inherit";
-            alert("Content edit mode o" + (editing ? "n" : "ff"));
-        }
-    })
+	'use strict';
+	var editing = false;
+	document.addEventListener("keydown", (e) => {
+		if (e.key.toLowerCase() == "e" && e.ctrlKey && e.shiftKey) {
+			editing = !editing;
+			document.body.contentEditable = editing ? "true" : "inherit";
+			alert("Content edit mode o" + (editing ? "n" : "ff"));
+		}
+	})
 })();

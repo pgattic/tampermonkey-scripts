@@ -6,10 +6,12 @@
 // @author       pgattic
 // @match        https://en.wikipedia.org/wiki/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wikipedia.org
-// @grant        none
+// @grant        GM_addStyle
 // ==/UserScript==
 
 (function() {
+    GM_addStyle(`:root { color-scheme: dark; }`)
+
     var full = false;
     document.addEventListener("keydown", (e) => {
         if (e.key.toLowerCase() == "f" && e.ctrlKey && e.shiftKey) {
