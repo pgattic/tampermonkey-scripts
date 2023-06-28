@@ -14,7 +14,7 @@
 	GM_addStyle(`
 
 #content {
-	min-width: 512px;
+	min-width: 600px;
 	max-width: 60%;
 }
 

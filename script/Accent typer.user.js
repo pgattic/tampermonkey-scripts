@@ -28,7 +28,7 @@
   }
   document.addEventListener("keyup", (e) => {
     for (let i in replacements) {
-      e.target.value = e.target.value.replaceAll(i, replacements[i]);
+      if (e.target.value && e.target.value.includes(i)) {e.target.value = e.target.value.replaceAll(i, replacements[i]);}
     }
   })
 })();
