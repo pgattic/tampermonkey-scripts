@@ -1,1 +1,361 @@
-{"scripts":{"Zen Wikipedia":{"custom":{"origInclude":true,"origExclude":true,"origMatch":true,"origExcludeMatch":true,"downloadURL":"","exclude":[],"excludeMatch":[],"homepageURL":"","include":[],"match":[],"name":"","noframes":null,"pathMap":{},"runAt":"","updateURL":""},"config":{"enabled":1,"shouldUpdate":1,"notifyUpdates":null,"removed":0},"position":1,"lastModified":1668922765315,"lastUpdated":1668922765315},"Page content editor":{"custom":{"origInclude":true,"origExclude":true,"origMatch":true,"origExcludeMatch":true,"downloadURL":"","exclude":[],"excludeMatch":[],"homepageURL":"","include":[],"match":[],"name":"","noframes":null,"pathMap":{},"runAt":"","updateURL":""},"config":{"enabled":false,"shouldUpdate":1,"notifyUpdates":null,"removed":0},"position":2,"lastModified":1685838140520,"lastUpdated":1675837230795},"Typewriter Sounds":{"custom":{"origInclude":true,"origExclude":true,"origMatch":true,"origExcludeMatch":true,"downloadURL":"","exclude":[],"excludeMatch":[],"homepageURL":"","include":[],"match":[],"name":"","noframes":null,"pathMap":{},"runAt":"","updateURL":""},"config":{"enabled":0,"shouldUpdate":1,"notifyUpdates":null,"removed":0},"position":3,"lastModified":1666147236798,"lastUpdated":1665588699226},"Gospel Library Online Customization":{"custom":{"origInclude":true,"origExclude":true,"origMatch":true,"origExcludeMatch":true,"downloadURL":"","exclude":[],"excludeMatch":[],"homepageURL":"","include":[],"match":[],"name":"","noframes":null,"pathMap":{},"runAt":"","updateURL":""},"config":{"enabled":1,"shouldUpdate":1,"notifyUpdates":null,"removed":0},"position":4,"lastModified":1687414016687,"lastUpdated":1687414016687},"Hide GIFs":{"custom":{"origInclude":true,"origExclude":true,"origMatch":true,"origExcludeMatch":true,"downloadURL":"","exclude":[],"excludeMatch":[],"homepageURL":"","include":[],"match":[],"name":"","noframes":null,"pathMap":{},"runAt":"","updateURL":""},"config":{"enabled":0,"shouldUpdate":1,"notifyUpdates":null,"removed":0},"position":5,"lastModified":1668900565468,"lastUpdated":1666192274251},"Gmail Ad Deleter":{"custom":{"origInclude":true,"origExclude":true,"origMatch":true,"origExcludeMatch":true,"downloadURL":"","exclude":[],"excludeMatch":[],"homepageURL":"","include":[],"match":[],"name":"","noframes":null,"pathMap":{},"runAt":"","updateURL":""},"config":{"enabled":1,"shouldUpdate":1,"notifyUpdates":null,"removed":0},"position":6,"lastModified":1669656655689,"lastUpdated":1668819180397},"Gospel Library Notes Custom Styling":{"custom":{"origInclude":true,"origExclude":true,"origMatch":true,"origExcludeMatch":true,"downloadURL":"","exclude":[],"excludeMatch":[],"homepageURL":"","include":[],"match":[],"name":"","noframes":null,"pathMap":{},"runAt":"","updateURL":""},"config":{"enabled":1,"shouldUpdate":1,"notifyUpdates":null,"removed":0},"position":7,"lastModified":1675838341418,"lastUpdated":1668924266317},"Accent typer":{"custom":{"origInclude":true,"origExclude":true,"origMatch":true,"origExcludeMatch":true,"downloadURL":"","exclude":[],"excludeMatch":[],"homepageURL":"","include":[],"match":[],"name":"","noframes":null,"pathMap":{},"runAt":"","updateURL":""},"config":{"enabled":1,"shouldUpdate":1,"notifyUpdates":null,"removed":0},"position":8,"lastModified":1687494272148,"lastUpdated":1687494272148},"Scripture Progress Meter":{"custom":{"origInclude":true,"origExclude":true,"origMatch":true,"origExcludeMatch":true,"downloadURL":"","exclude":[],"excludeMatch":[],"homepageURL":"","include":[],"match":[],"name":"","noframes":null,"pathMap":{},"runAt":"","updateURL":""},"config":{"enabled":1,"shouldUpdate":1,"notifyUpdates":null,"removed":0},"position":9,"lastModified":1681007292716,"lastUpdated":1681007292716},"YouTube Focuser":{"custom":{"origInclude":true,"origExclude":true,"origMatch":true,"origExcludeMatch":true,"downloadURL":"","exclude":[],"excludeMatch":[],"homepageURL":"","include":[],"match":[],"name":"","noframes":null,"pathMap":{},"runAt":"","updateURL":""},"config":{"enabled":1,"shouldUpdate":1,"notifyUpdates":null,"removed":0},"position":10,"lastModified":1687493461340,"lastUpdated":1687493461340},"BYUI Books dark mode":{"custom":{"origInclude":true,"origExclude":true,"origMatch":true,"origExcludeMatch":true,"name":"","runAt":"","homepageURL":"","updateURL":"","downloadURL":"","include":[],"match":[],"exclude":[],"excludeMatch":[],"noframes":null,"pathMap":{}},"config":{"enabled":true,"shouldUpdate":1,"notifyUpdates":null,"removed":0},"position":11,"lastModified":1687918145545,"lastUpdated":1687904933718}},"settings":{"isApplied":true,"autoUpdate":1,"updateEnabledScriptsOnly":true,"lastUpdate":1687921334027,"lastModified":0,"showBadge":"unique","badgeColor":"#880088","badgeColorBlocked":"#888888","exportValues":true,"exportNameTemplate":"[violentmonkey]_YYYY-MM-DD_HH.mm.ss","expose":{"greasyfork%2Eorg":true,"sleazyfork%2Eorg":false},"closeAfterInstall":false,"trackLocalFile":false,"autoReload":false,"features":null,"blacklist":null,"syncScriptStatus":true,"customCSS":"","importScriptData":true,"importSettings":true,"notifyUpdates":false,"notifyUpdatesGlobal":false,"version":1,"defaultInjectInto":"auto","ffInject":true,"xhrInject":false,"filters":{"searchScope":"name","showOrder":false,"sort":"update","viewSingleColumn":false,"viewTable":false},"filtersPopup":{"sort":"exec","enabledFirst":false,"groupRunAt":true,"hideDisabled":""},"editor":{"indentUnit":4,"indentWithTabs":false,"lineWrapping":false,"tabSize":4,"undoDepth":500},"editorTheme":"","editorThemeName":"default","editorWindow":false,"editorWindowPos":{},"editorWindowSimple":true,"scriptTemplate":"// ==UserScript==\n// @name        New script {{name}}\n// @namespace   https://pgattic.github.io\n// @version     1.0\n// @description {{date}}\n// @author      pgattic\n// @match       {{url}}\n// @icon        data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\n// @grant       none\n// ==/UserScript==\n\n(function() {\n\t'use strict';\n\t// code goes here\n})();\n","showAdvanced":true,"uiTheme":""},"values":{}}
+{
+  "scripts": {
+    "Zen Wikipedia": {
+      "custom": {
+        "origInclude": true,
+        "origExclude": true,
+        "origMatch": true,
+        "origExcludeMatch": true,
+        "downloadURL": "",
+        "exclude": [],
+        "excludeMatch": [],
+        "homepageURL": "",
+        "include": [],
+        "match": [],
+        "name": "",
+        "pathMap": {},
+        "runAt": "",
+        "updateURL": ""
+      },
+      "config": {
+        "enabled": 1,
+        "shouldUpdate": 1,
+        "removed": 0
+      },
+      "position": 1,
+      "lastModified": 1668922765315,
+      "lastUpdated": 1668922765315
+    },
+    "Page content editor": {
+      "custom": {
+        "origInclude": true,
+        "origExclude": true,
+        "origMatch": true,
+        "origExcludeMatch": true,
+        "downloadURL": "",
+        "exclude": [],
+        "excludeMatch": [],
+        "homepageURL": "",
+        "include": [],
+        "match": [],
+        "name": "",
+        "pathMap": {},
+        "runAt": "",
+        "updateURL": ""
+      },
+      "config": {
+        "enabled": 0,
+        "shouldUpdate": 1,
+        "removed": 0
+      },
+      "position": 2,
+      "lastModified": 1685838140520,
+      "lastUpdated": 1675837230795
+    },
+    "Typewriter Sounds": {
+      "custom": {
+        "origInclude": true,
+        "origExclude": true,
+        "origMatch": true,
+        "origExcludeMatch": true,
+        "downloadURL": "",
+        "exclude": [],
+        "excludeMatch": [],
+        "homepageURL": "",
+        "include": [],
+        "match": [],
+        "name": "",
+        "pathMap": {},
+        "runAt": "",
+        "updateURL": ""
+      },
+      "config": {
+        "enabled": false,
+        "shouldUpdate": 1,
+        "removed": 0
+      },
+      "position": 3,
+      "lastModified": 1695950764300,
+      "lastUpdated": 1665588699226
+    },
+    "Gospel Library Online Customization": {
+      "custom": {
+        "origInclude": true,
+        "origExclude": true,
+        "origMatch": true,
+        "origExcludeMatch": true,
+        "downloadURL": "",
+        "exclude": [],
+        "excludeMatch": [],
+        "homepageURL": "",
+        "include": [],
+        "match": [],
+        "name": "",
+        "pathMap": {},
+        "runAt": "",
+        "updateURL": ""
+      },
+      "config": {
+        "enabled": true,
+        "shouldUpdate": 1,
+        "removed": 0
+      },
+      "position": 4,
+      "lastModified": 1699982142661,
+      "lastUpdated": 1687414016687
+    },
+    "Hide GIFs": {
+      "custom": {
+        "origInclude": true,
+        "origExclude": true,
+        "origMatch": true,
+        "origExcludeMatch": true,
+        "downloadURL": "",
+        "exclude": [],
+        "excludeMatch": [],
+        "homepageURL": "",
+        "include": [],
+        "match": [],
+        "name": "",
+        "pathMap": {},
+        "runAt": "",
+        "updateURL": ""
+      },
+      "config": {
+        "enabled": 0,
+        "shouldUpdate": 1,
+        "removed": 0
+      },
+      "position": 5,
+      "lastModified": 1668900565468,
+      "lastUpdated": 1666192274251
+    },
+    "Gmail Ad Deleter": {
+      "custom": {
+        "origInclude": true,
+        "origExclude": true,
+        "origMatch": true,
+        "origExcludeMatch": true,
+        "downloadURL": "",
+        "exclude": [],
+        "excludeMatch": [],
+        "homepageURL": "",
+        "include": [],
+        "match": [],
+        "name": "",
+        "pathMap": {},
+        "runAt": "",
+        "updateURL": ""
+      },
+      "config": {
+        "enabled": 1,
+        "shouldUpdate": 1,
+        "removed": 0
+      },
+      "position": 6,
+      "lastModified": 1669656655689,
+      "lastUpdated": 1668819180397
+    },
+    "Gospel Library Notes Custom Styling": {
+      "custom": {
+        "origInclude": true,
+        "origExclude": true,
+        "origMatch": true,
+        "origExcludeMatch": true,
+        "downloadURL": "",
+        "exclude": [],
+        "excludeMatch": [],
+        "homepageURL": "",
+        "include": [],
+        "match": [],
+        "name": "",
+        "pathMap": {},
+        "runAt": "",
+        "updateURL": ""
+      },
+      "config": {
+        "enabled": 1,
+        "shouldUpdate": 1,
+        "removed": 0
+      },
+      "position": 7,
+      "lastModified": 1675838341418,
+      "lastUpdated": 1668924266317
+    },
+    "Accent typer": {
+      "custom": {
+        "origInclude": true,
+        "origExclude": true,
+        "origMatch": true,
+        "origExcludeMatch": true,
+        "downloadURL": "",
+        "exclude": [],
+        "excludeMatch": [],
+        "homepageURL": "",
+        "include": [],
+        "match": [],
+        "name": "",
+        "pathMap": {},
+        "runAt": "",
+        "updateURL": ""
+      },
+      "config": {
+        "enabled": 1,
+        "shouldUpdate": 1,
+        "removed": 0
+      },
+      "position": 8,
+      "lastModified": 1687494272148,
+      "lastUpdated": 1687494272148
+    },
+    "Scripture Progress Meter": {
+      "custom": {
+        "origInclude": true,
+        "origExclude": true,
+        "origMatch": true,
+        "origExcludeMatch": true,
+        "pathMap": {}
+      },
+      "config": {
+        "enabled": 1,
+        "shouldUpdate": 1,
+        "removed": 0
+      },
+      "position": 9,
+      "lastModified": 1699983678639,
+      "lastUpdated": 1699983678639
+    },
+    "YouTube Focuser": {
+      "custom": {
+        "origInclude": true,
+        "origExclude": true,
+        "origMatch": true,
+        "origExcludeMatch": true,
+        "downloadURL": "",
+        "exclude": [],
+        "excludeMatch": [],
+        "homepageURL": "",
+        "include": [],
+        "match": [],
+        "name": "",
+        "pathMap": {},
+        "runAt": "",
+        "updateURL": ""
+      },
+      "config": {
+        "enabled": 1,
+        "shouldUpdate": 1,
+        "removed": 0
+      },
+      "position": 10,
+      "lastModified": 1687493461340,
+      "lastUpdated": 1687493461340
+    },
+    "BYUI Books dark mode": {
+      "custom": {
+        "origInclude": true,
+        "origExclude": true,
+        "origMatch": true,
+        "origExcludeMatch": true,
+        "name": "",
+        "runAt": "",
+        "homepageURL": "",
+        "updateURL": "",
+        "downloadURL": "",
+        "include": [],
+        "match": [],
+        "exclude": [],
+        "excludeMatch": [],
+        "pathMap": {}
+      },
+      "config": {
+        "enabled": 1,
+        "shouldUpdate": 1,
+        "removed": 0
+      },
+      "position": 11,
+      "lastModified": 1687918145545,
+      "lastUpdated": 1687904933718
+    },
+    "zybooks.com auto-player": {
+      "custom": {
+        "origInclude": true,
+        "origExclude": true,
+        "origMatch": true,
+        "origExcludeMatch": true,
+        "pathMap": {}
+      },
+      "config": {
+        "enabled": 1,
+        "shouldUpdate": 1,
+        "removed": 0
+      },
+      "position": 12,
+      "lastModified": 1695925876713,
+      "lastUpdated": 1695925876713
+    }
+  },
+  "settings": {
+    "isApplied": true,
+    "autoUpdate": 1,
+    "updateEnabledScriptsOnly": true,
+    "lastUpdate": 1700110041029,
+    "lastModified": 0,
+    "showBadge": "unique",
+    "badgeColor": "#880088",
+    "badgeColorBlocked": "#888888",
+    "exportValues": true,
+    "exportNameTemplate": "[violentmonkey]_YYYY-MM-DD_HH.mm.ss",
+    "expose": {
+      "greasyfork%2Eorg": true,
+      "sleazyfork%2Eorg": false
+    },
+    "closeAfterInstall": false,
+    "editAfterInstall": false,
+    "helpForLocalFile": true,
+    "trackLocalFile": false,
+    "autoReload": false,
+    "autoReloadTracked": false,
+    "features": null,
+    "blacklist": null,
+    "syncScriptStatus": true,
+    "customCSS": "",
+    "importScriptData": true,
+    "importSettings": true,
+    "notifyUpdates": false,
+    "notifyUpdatesGlobal": false,
+    "version": 1,
+    "defaultInjectInto": "auto",
+    "ffInject": true,
+    "xhrInject": false,
+    "filters": {
+      "searchScope": "name",
+      "showOrder": false,
+      "sort": "update",
+      "viewSingleColumn": false,
+      "viewTable": false
+    },
+    "filtersPopup": {
+      "sort": "exec",
+      "enabledFirst": false,
+      "groupRunAt": true,
+      "hideDisabled": ""
+    },
+    "editor": {
+      "indentUnit": 4,
+      "indentWithTabs": false,
+      "lineWrapping": false,
+      "tabSize": 4,
+      "undoDepth": 500
+    },
+    "editorTheme": "",
+    "editorThemeName": "default",
+    "editorWindow": false,
+    "editorWindowPos": {},
+    "editorWindowSimple": true,
+    "scriptTemplate": "// ==UserScript==\n// @name        New script {{name}}\n// @namespace   https://pgattic.github.io\n// @version     1.0\n// @description {{date}}\n// @author      pgattic\n// @match       {{url}}\n// @icon        data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==\n// @grant       none\n// ==/UserScript==\n\n(function() {\n\t'use strict';\n\t// code goes here\n})();\n",
+    "showAdvanced": true,
+    "uiTheme": ""
+  },
+  "values": {}
+}
